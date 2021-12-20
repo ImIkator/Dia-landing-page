@@ -6,6 +6,7 @@
 - Grid and Flexbox
 - SCSS
 - BEM
+- JS
 
 ## Description
 Fully responsive landing page for real company
